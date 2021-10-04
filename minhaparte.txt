@@ -1,3 +1,3 @@
-1. Meu nome é João Paulo
+1. Meu nome é João Paulo.
 2. Tenho 23 anos, sou cicloativista e moro em curitiba/PR.
 3. Desde pequeno sou fascinado por computação. Tive acesso muito cedo a computadores e sempre gostei muito de 'fuçar' em tudo o que era possível. Com uns 13 anos conheci o que chamamos de 'bot' em jogos online e amava programá-los para realizar as funções que eu queria que fossem automatizadas, mais do que jogar o próprio jogo ou colher os frutos da automação do trabalho árduo do bot. No ensino médio tive uma introdução à mecatrônica e foi ai que percebi que o mundo da automação e do machinelearning é onde eu quero estar inserido. Hoje pretendo estudar para me tornar dev e me especializar em backend nas áreas de machinelearning e automação.
